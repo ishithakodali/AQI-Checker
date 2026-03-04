@@ -37,9 +37,9 @@ After reading the sensor data from the input file, the program displays:
 5. Recommended actions based on the air quality level
 
 # Files in the Repo
-aqi_checker.c        -> main program
-sensor_data.txt      -> sample sensor input
-README.md            -> project documentation
+aqi_checker.c        -> main program  
+sensor_data.txt      -> sample sensor input  
+README.md            -> project documentation  
 
 # Concepts Used
 1. Simple Reflex Agent (Artificial Intelligence)
