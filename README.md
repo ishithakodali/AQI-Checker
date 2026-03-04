@@ -53,3 +53,7 @@ README.md            -> project documentation
 2. Rule-based decision making
 3. File handling in C 
 
+## Future Improvements
+- Integrate real environmental sensors
+- Support real-time AQI monitoring
+- Include more pollutants and advanced AQI calculations
