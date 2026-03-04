@@ -11,22 +11,18 @@ The agent:
 4. The agent reacts only to the current percept, without memory of past states.
 
 # Input Format
-```
-PM2.5:<value>
-PM10:<value>
-CO:<value>
-SO2:<value>
-NO2:<value>
-O3:<value>
-TEMP:<value>
-HUMIDITY:<value>
-```
+PM2.5:<value>  
+PM10:<value>  
+CO:<value>  
+SO2:<value>  
+NO2:<value>  
+O3:<value>  
+TEMP:<value>  
+HUMIDITY:<value>  
 
 # How to Compile
-```
 Use GCC to compile the program
 `gcc aqi_checker.c -o aqi`
-```
 
 # How to Run
 `./aqi sensor_data.txt `
